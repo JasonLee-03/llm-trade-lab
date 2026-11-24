@@ -1,0 +1,3 @@
+[submodule "projects/goldmind"]
+	path = projects/goldmind
+	url = https://github.com/JasonLee-03/goldmind.git
